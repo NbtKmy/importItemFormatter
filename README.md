@@ -22,9 +22,6 @@ https://services.dnb.de/sru/dnb?version=1.1&operation=searchRetrieve&query=ddc=3
 ## SB Schweizer Buch
 
 
-### Primo
-https://nb-helveticat.primo.exlibrisgroup.com/discovery/search?query=lds02,exact,2022%2020&tab=Swissbook&search_scope=Swissbook&vid=41SNL_51_INST:swissbook&mfacet=lds23,include,340,1&lang=de&offset=0
-
 ### SRU
 mit MARCXML vers. 1.2 (not working)
 https://nb-helveticat.alma.exlibrisgroup.com/view/sru/41SNL_51_INST?version=1.2&operation=searchRetrieve&recordSchema=marcxml&maximumRecords=5&query=date_of_publication=2022%20and%20dewey_decimal_class_number=340%20and%20alma.mms_material_type=BK
@@ -34,4 +31,27 @@ https://nb-helveticat.alma.exlibrisgroup.com/view/sru/41SNL_51_INST?version=1.1&
 
 mit Mods vers. 1.2 (not working)
 https://nb-helveticat.alma.exlibrisgroup.com/view/sru/41SNL_51_INST?version=1.2&operation=searchRetrieve&recordSchema=mods&maximumRecords=5&query=date_of_publication=2022%20and%20dewey_decimal_class_number=340%20and%20alma.mms_material_type=BK
+
+## BNF
+
+### SRU
+
+https://catalogue.bnf.fr/api/SRU?version=1.2&operation=searchRetrieve&query=bib.date%20=%20%222022%22%20and%20bib.dewey%20any%20%2234*%22&recordSchema=unimarcxchange&maximumRecords=5&startRecord=1
+
+Das MARC-Format von BNF-SRU funktioniert so nicht. -> Daten wiederum ins passende MARC-Format umwandeln (siehe "./examples/test2.xml")
+
+## Schulthess
+Web-Seite
+Alle
+https://www.schulthess.com/buchshop/fachkatalog/juristische-verlage-schweiz/schulthess-verlag
+Neuerscheinung
+https://www.schulthess.com/buchshop/fachkatalog/juristische-verlage-schweiz/schulthess-verlag/neuerscheinungen-schulthess
+
+Das entsprechende div-element hat 'class="sectionDesc" data-bpmisbn="[ISBN ohne Bindestrich]"'
+Da kann man vielleicht über diese Attribute ISBN-Nummer holen?
+
+## Oasis
+Aus der Spalte N ("EAN/ISBN") der Tabelle die ISBN-Nummer holen
+
+
 

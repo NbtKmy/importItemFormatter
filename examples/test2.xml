@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>     cam  22        450 </leader>
+    <controlfield tag="001">FRBNF470546700000000</controlfield>
+    <controlfield tag="003">http://catalogue.bnf.fr/ark:/12148/cb470546708</controlfield>
+    <controlfield tag="005">19930521155141.9</controlfield>
+    <controlfield tag="008">920219s1993    caua   j      000 0 eng  </controlfield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">   92005291 </subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9782297177009 :</subfield>
+      <subfield code="c">26,50 EUR</subfield>
+    </datafield>
+    <datafield tag="082" ind1="0" ind2="0">
+      <subfield code="a">349.44</subfield>
+      <subfield code="2">23</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Fondamentaux du droit /</subfield>
+      <subfield code="c">Laetitia Simonet.</subfield>
+    </datafield>
+    <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="a">1st ed.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Paris :</subfield>
+      <subfield code="b">Paris-La Défense</subfield>
+      <subfield code="c">DL 2022</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 vol. (283 p.)</subfield>
+      <subfield code="b">ill. ;</subfield>
+      <subfield code="c">20 cm.</subfield>
+    </datafield>
+  </record>
+</collection>
