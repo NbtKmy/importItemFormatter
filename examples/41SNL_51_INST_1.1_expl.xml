@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><sru:searchRetrieveResponse xmlns:sru="http://www.loc.gov/zing/srw/"><sru:version>1.1</sru:version><sru:numberOfRecords>278</sru:numberOfRecords><sru:records><sru:record><sru:recordSchema>marcxml</sru:recordSchema><sru:recordPacking>xml</sru:recordPacking><sru:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01670nam a22004217i 4500</leader>
+  <controlfield tag="001">991018817537803976</controlfield>
+  <controlfield tag="003">Sz</controlfield>
+  <controlfield tag="005">20220511094617.0</controlfield>
+  <controlfield tag="007">cr#|||||||||||</controlfield>
+  <controlfield tag="008">220506s2022    sz      s     00| 0 fre d</controlfield>
+  <datafield ind1="7" ind2=" " tag="024">
+    <subfield code="2">urn</subfield>
+    <subfield code="a">urn:nbn:ch:bel-2161552</subfield>
+  </datafield>
+  <datafield ind1="7" ind2=" " tag="024">
+    <subfield code="a">http://permalink.snl.ch/bib/sz991018817537803976</subfield>
+    <subfield code="2">uri</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">oai:nb.ingest:alma-bel-2161552</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(Sz)991018817537803976</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">Sz</subfield>
+    <subfield code="b">fre</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield ind1="7" ind2="4" tag="082">
+    <subfield code="a">340</subfield>
+    <subfield code="2">23sdnb</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Wilhelm, Christophe</subfield>
+    <subfield code="e">Verfasser</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="2" tag="245">
+    <subfield code="a">L' « exercice mesuré des droits » et l'abus de majorité en droit suisse de la société anonyme /</subfield>
+    <subfield code="c">Christophe Wilhelm, Océane Varrin</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="1" tag="264">
+    <subfield code="a">Zürich :</subfield>
+    <subfield code="b">Schulthess,</subfield>
+    <subfield code="c">2022</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">1 ressource en ligne</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="336">
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="337">
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="338">
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="490">
+    <subfield code="a">La Pratique du droit</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="516">
+    <subfield code="a">PDF</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="588">
+    <subfield code="a">Titre et description du fournisseur (06.05.2022)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="659">
+    <subfield code="a">Aktienrecht</subfield>
+  </datafield>
+  <datafield ind1="2" ind2=" " tag="710">
+    <subfield code="a">Schulthess Juristische Medien</subfield>
+    <subfield code="0">(DE-588)1064209831</subfield>
+    <subfield code="2">gnd</subfield>
+    <subfield code="e">Verlag</subfield>
+    <subfield code="4">pbl</subfield>
+  </datafield>
+  <datafield ind1="4" ind2="0" tag="856">
+    <subfield code="u">https://www.schulthess.com/buchshop/detail/ISBN-9783725588619/Wilhelm-Christophe-Varrin-Oceane/L-%25AB-exercice-mesure-des-droits-%25BB-et-labus-de-majorite-en-droit-suisse-de-la-societe-anonyme-PrintPlu%25A7</subfield>
+  </datafield>
+  <datafield ind1="4" ind2="2" tag="856">
+    <subfield code="u">http://www.e-helvetica.nb.admin.ch/directAccess?callnumber=bel-2161552</subfield>
+    <subfield code="y">Aux collections numériques de la BN</subfield>
+  </datafield>
+  <datafield ind1="4" ind2=" " tag="856">
+    <subfield code="u">https://nbn-resolving.org/urn:nbn:ch:bel-2161552</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="943">
+    <subfield code="a">340</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="957">
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="960">
+    <subfield code="a">zh</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="988">
+    <subfield code="b">2022</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="989">
+    <subfield code="b">2022/09</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="992">
+    <subfield code="a">xehelv</subfield>
+    <subfield code="b">xpop</subfield>
+    <subfield code="c">2022</subfield>
+    <subfield code="d">340</subfield>
+    <subfield code="e">10751</subfield>
+    <subfield code="k">zh</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="993">
+    <subfield code="a">sb</subfield>
+    <subfield code="b">2022/09</subfield>
+    <subfield code="c">340</subfield>
+    <subfield code="k">zh</subfield>
+  </datafield>
+</record></sru:recordData><sru:recordPosition>1</sru:recordPosition></sru:record><sru:record><sru:recordSchema>marcxml</sru:recordSchema><sru:recordPacking>xml</sru:recordPacking><sru:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01857nam a22004814i 4500</leader>
+  <controlfield tag="001">991018966037803976</controlfield>
+  <controlfield tag="003">Sz</controlfield>
+  <controlfield tag="005">20221101110216.0</controlfield>
+  <controlfield tag="008">180920s2022    sz a     m    00| 0 eng d</controlfield>
+  <datafield ind1="7" ind2=" " tag="024">
+    <subfield code="a">http://permalink.snl.ch/bib/sz991018966037803976</subfield>
+    <subfield code="2">uri</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(Sz)991018966037803976</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">Sz</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield ind1="7" ind2="4" tag="082">
+    <subfield code="a">340</subfield>
+    <subfield code="2">23sdnb</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Sacher, Kevin Yves</subfield>
+    <subfield code="0">(DE-588)1266743677</subfield>
+    <subfield code="2">gnd</subfield>
+    <subfield code="e">Verfasser</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="245">
+    <subfield code="a">Die (Un-)Behandelbarkeit psychisch schwer gestörter Straftäter :</subfield>
+    <subfield code="b">die Abgrenzung zwischen stationärer Behandlung gemäss Art. 59 StGB und der Verwahrung gemäss Art. 64 Abs. 1 lit. b StGB /</subfield>
+    <subfield code="c">Kevin Yves Sacher</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="1" tag="264">
+    <subfield code="a">Bern,</subfield>
+    <subfield code="c">2022</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">433 Seiten ;</subfield>
+    <subfield code="c">21 cm</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="336">
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="337">
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="338">
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="502">
+    <subfield code="b">Dissertation</subfield>
+    <subfield code="c">Universität Bern,</subfield>
+    <subfield code="d">2020</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="504">
+    <subfield code="a">Literaturverzeichnis</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Täter</subfield>
+    <subfield code="0">(DE-588)4058881-6</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Psychische Störung</subfield>
+    <subfield code="0">(DE-588)4047686-8</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Stationäre psychiatrische Versorgung</subfield>
+    <subfield code="0">(DE-588)4192301-7</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Verwahrung</subfield>
+    <subfield code="0">(DE-588)4188110-2</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Strafrecht</subfield>
+    <subfield code="0">(DE-588)4057795-8</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Schweiz</subfield>
+    <subfield code="0">(DE-588)4053881-3</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="655">
+    <subfield code="a">Hochschulschrift</subfield>
+    <subfield code="0">(DE-588)4113937-9</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="0" tag="689">
+    <subfield code="a">Schweiz</subfield>
+    <subfield code="0">(DE-588)4053881-3</subfield>
+    <subfield code="D">g</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="1" tag="689">
+    <subfield code="a">Täter</subfield>
+    <subfield code="0">(DE-588)4058881-6</subfield>
+    <subfield code="D">s</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="2" tag="689">
+    <subfield code="a">Psychische Störung</subfield>
+    <subfield code="0">(DE-588)4047686-8</subfield>
+    <subfield code="D">s</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="3" tag="689">
+    <subfield code="a">Stationäre psychiatrische Versorgung</subfield>
+    <subfield code="0">(DE-588)4192301-7</subfield>
+    <subfield code="D">s</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="4" tag="689">
+    <subfield code="a">Verwahrung</subfield>
+    <subfield code="0">(DE-588)4188110-2</subfield>
+    <subfield code="D">s</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="5" tag="689">
+    <subfield code="a">Strafrecht</subfield>
+    <subfield code="0">(DE-588)4057795-8</subfield>
+    <subfield code="D">s</subfield>
+  </datafield>
+  <datafield ind1="2" ind2=" " tag="710">
+    <subfield code="a">Universität Bern</subfield>
+    <subfield code="0">(DE-588)2023768-6</subfield>
+    <subfield code="2">gnd</subfield>
+    <subfield code="e">Grad-verleihende Institution</subfield>
+    <subfield code="4">dgg</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="943">
+    <subfield code="a">340</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="957">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="960">
+    <subfield code="a">be</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="988">
+    <subfield code="b">2022</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="989">
+    <subfield code="b">2022/21</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="993">
+    <subfield code="a">sb</subfield>
+    <subfield code="b">2022/21</subfield>
+    <subfield code="c">340</subfield>
+    <subfield code="k">be</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="994">
+    <subfield code="a">seRSWK</subfield>
+    <subfield code="b">2022</subfield>
+  </datafield>
+</record></sru:recordData><sru:recordPosition>2</sru:recordPosition></sru:record><sru:record><sru:recordSchema>marcxml</sru:recordSchema><sru:recordPacking>xml</sru:recordPacking><sru:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00716nac a22002417ia4500</leader>
+  <controlfield tag="001">991017954316403976</controlfield>
+  <controlfield tag="003">Sz</controlfield>
+  <controlfield tag="005">20220929155127.0</controlfield>
+  <controlfield tag="008">190326m20032022sz            00| 0 ger d</controlfield>
+  <datafield ind1="7" ind2=" " tag="024">
+    <subfield code="a">http://permalink.snl.ch/bib/sz991017954316403976</subfield>
+    <subfield code="2">uri</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(Sz)991017954316403976</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">Sz</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield ind1="7" ind2="4" tag="082">
+    <subfield code="a">340</subfield>
+    <subfield code="2">23sdnb</subfield>
+  </datafield>
+  <datafield ind1="2" ind2=" " tag="110">
+    <subfield code="a">mietrechtspraxis/mp</subfield>
+    <subfield code="0">(DE-588)1107206049</subfield>
+    <subfield code="2">gnd</subfield>
+    <subfield code="e">Verfasser</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">[Programme, mietrechtspraxis/mp]</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="1" tag="264">
+    <subfield code="a">[Zürich] :</subfield>
+    <subfield code="b">mietrechtspraxis/mp,</subfield>
+    <subfield code="c">[2003]-[2022]</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="f">Schachteln</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="336">
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="337">
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="338">
+    <subfield code="b">zu</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="957">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="991">
+    <subfield code="a">xvcoll</subfield>
+    <subfield code="b">2019/03</subfield>
+    <subfield code="d">jou</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="994">
+    <subfield code="a">rpd2019</subfield>
+  </datafield>
+</record></sru:recordData><sru:recordPosition>3</sru:recordPosition></sru:record><sru:record><sru:recordSchema>marcxml</sru:recordSchema><sru:recordPacking>xml</sru:recordPacking><sru:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00969nac a22002777ia4500</leader>
+  <controlfield tag="001">991018576439503976</controlfield>
+  <controlfield tag="003">Sz</controlfield>
+  <controlfield tag="005">20220727182531.0</controlfield>
+  <controlfield tag="008">220215m20229999sz            00| 0 ger d</controlfield>
+  <datafield ind1="7" ind2=" " tag="024">
+    <subfield code="a">http://permalink.snl.ch/bib/sz991018576439503976</subfield>
+    <subfield code="2">uri</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(Sz)991018576439503976</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">Sz</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="041">
+    <subfield code="a">ger</subfield>
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield ind1="7" ind2="4" tag="082">
+    <subfield code="a">340</subfield>
+    <subfield code="2">23sdnb</subfield>
+  </datafield>
+  <datafield ind1="2" ind2=" " tag="110">
+    <subfield code="a">Schweizerische Vereinigung für Verwaltungsorganisationsrecht</subfield>
+    <subfield code="0">(DE-588)1086729900</subfield>
+    <subfield code="2">gnd</subfield>
+    <subfield code="e">Verfasser</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">[Programme, Schweizerische Vereinigung für Verwaltungsorganisationsrecht]</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="1" tag="264">
+    <subfield code="a">[Freiburg im Üechtland] :</subfield>
+    <subfield code="b">Schweizerische Vereinigung für Verwaltungsorganisationsrecht,</subfield>
+    <subfield code="c">[2022]-</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="f">Schachteln</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="336">
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="337">
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="338">
+    <subfield code="b">zu</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="546">
+    <subfield code="a">Texte in Deutsch und Französisch</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="956">
+    <subfield code="a">ger</subfield>
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="957">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="991">
+    <subfield code="a">xvcoll</subfield>
+    <subfield code="b">2022/02</subfield>
+    <subfield code="d">jou</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="994">
+    <subfield code="a">rpd2021</subfield>
+  </datafield>
+</record></sru:recordData><sru:recordPosition>4</sru:recordPosition></sru:record><sru:record><sru:recordSchema>marcxml</sru:recordSchema><sru:recordPacking>xml</sru:recordPacking><sru:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00919nac a22002774i 4500</leader>
+  <controlfield tag="001">991017989327803976</controlfield>
+  <controlfield tag="003">Sz</controlfield>
+  <controlfield tag="005">20220923094359.0</controlfield>
+  <controlfield tag="008">190909m20072022sz            00| 0 fre d</controlfield>
+  <datafield ind1="7" ind2=" " tag="024">
+    <subfield code="a">http://permalink.snl.ch/bib/sz991017989327803976</subfield>
+    <subfield code="2">uri</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(Sz)991017989327803976</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">Sz</subfield>
+    <subfield code="b">fre</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="041">
+    <subfield code="a">fre</subfield>
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield ind1="7" ind2="4" tag="082">
+    <subfield code="a">340</subfield>
+    <subfield code="2">23sdnb</subfield>
+  </datafield>
+  <datafield ind1="2" ind2=" " tag="110">
+    <subfield code="a">Universität Freiburg</subfield>
+    <subfield code="g">Schweiz</subfield>
+    <subfield code="b">Institut für Europarecht</subfield>
+    <subfield code="0">(DE-588)5305700-4</subfield>
+    <subfield code="2">gnd</subfield>
+    <subfield code="e">Verfasser</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">[Programmes, Université de Fribourg, Institut de droit européen]</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="1" tag="264">
+    <subfield code="a">[Fribourg] :</subfield>
+    <subfield code="b">Université de Fribourg, Institut de droit européen,</subfield>
+    <subfield code="c">[2007]-[2022]</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="f">boîtes</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="336">
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="337">
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="338">
+    <subfield code="b">zu</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="546">
+    <subfield code="a">Textes en français et en allemand</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="956">
+    <subfield code="a">fre</subfield>
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="957">
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="991">
+    <subfield code="a">xvcoll</subfield>
+    <subfield code="b">2019/09</subfield>
+    <subfield code="d">jou</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="994">
+    <subfield code="a">rpd2019</subfield>
+  </datafield>
+</record></sru:recordData><sru:recordPosition>5</sru:recordPosition></sru:record></sru:records><sru:nextRecordPosition>6</sru:nextRecordPosition><sru:extraResponseData xmlns:xb="http://www.exlibris.com/repository/search/xmlbeans/">
+  <xb:exact>true</xb:exact>
+  <xb:responseDate>2022-11-01T15:12:28+0100</xb:responseDate>
+</sru:extraResponseData></sru:searchRetrieveResponse>

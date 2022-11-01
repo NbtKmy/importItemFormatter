@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?><searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+  <version>1.2</version>
+  <numberOfRecords>278</numberOfRecords>
+  <records>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <nonSort>L'</nonSort>
+            <title>« exercice mesuré des droits » et l'abus de majorité en droit suisse de la société anonyme</title>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Wilhelm, Christophe</namePart>
+            <role>
+              <roleTerm type="text">Verfasser</roleTerm>
+            </role>
+            <role>
+              <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+            </role>
+          </name>
+          <name type="corporate">
+            <namePart>Schulthess Juristische Medien</namePart>
+            <role>
+              <roleTerm type="text">Verlag</roleTerm>
+            </role>
+            <role>
+              <roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+            </role>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="rdacontent"/>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">sz</placeTerm>
+            </place>
+            <dateIssued encoding="marc">2022</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <originInfo eventType="publication">
+            <place>
+              <placeTerm type="text">Zürich :</placeTerm>
+            </place>
+            <publisher>Schulthess,</publisher>
+            <dateIssued>2022</dateIssued>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">electronic</form>
+            <form authority="marccategory">electronic resource</form>
+            <form authority="marcsmd">remote</form>
+            <extent>1 ressource en ligne</extent>
+            <form authority="rdamedia" type="media"/>
+            <form authority="rdacarrier" type="carrier"/>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">Christophe Wilhelm, Océane Varrin</note>
+          <note>PDF</note>
+          <classification authority="ddc" edition="23sdnb">340</classification>
+          <location>
+            <url displayLabel="electronic resource" usage="primary display">https://www.schulthess.com/buchshop/detail/ISBN-9783725588619/Wilhelm-Christophe-Varrin-Oceane/L-%25AB-exercice-mesure-des-droits-%25BB-et-labus-de-majorite-en-droit-suisse-de-la-societe-anonyme-PrintPlu%25A7</url>
+          </location>
+          <location>
+            <url displayLabel="Aux collections numériques de la BN">http://www.e-helvetica.nb.admin.ch/directAccess?callnumber=bel-2161552</url>
+          </location>
+          <location>
+            <url displayLabel="electronic resource">https://nbn-resolving.org/urn:nbn:ch:bel-2161552</url>
+          </location>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>La Pratique du droit</title>
+            </titleInfo>
+          </relatedItem>
+          <identifier type="urn">urn:nbn:ch:bel-2161552</identifier>
+          <identifier type="uri">http://permalink.snl.ch/bib/sz991018817537803976</identifier>
+          <relatedItem>
+            <location>
+              <url displayLabel="Aux collections numériques de la BN">http://www.e-helvetica.nb.admin.ch/directAccess?callnumber=bel-2161552</url>
+            </location>
+          </relatedItem>
+          <recordInfo>
+            <descriptionStandard>rda</descriptionStandard>
+            <recordContentSource authority="marcorg">Sz</recordContentSource>
+            <recordCreationDate encoding="marc">220506</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20220511094617.0</recordChangeDate>
+            <recordIdentifier source="Sz">991018817537803976</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>991018817537803976</recordIdentifier>
+      <recordPosition>1</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <nonSort>Die</nonSort>
+            <title>(Un-)Behandelbarkeit psychisch schwer gestörter Straftäter</title>
+            <subTitle>die Abgrenzung zwischen stationärer Behandlung gemäss Art. 59 StGB und der Verwahrung gemäss Art. 64 Abs. 1 lit. b StGB</subTitle>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Sacher, Kevin Yves</namePart>
+            <role>
+              <roleTerm type="text">Verfasser</roleTerm>
+            </role>
+            <role>
+              <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+            </role>
+          </name>
+          <name type="corporate">
+            <namePart>Universität Bern</namePart>
+            <role>
+              <roleTerm type="text">Grad-verleihende Institution</roleTerm>
+            </role>
+            <role>
+              <roleTerm authority="marcrelator" type="code">dgg</roleTerm>
+            </role>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">theses</genre>
+          <genre authority="rdacontent"/>
+          <genre authority="gnd-content">Hochschulschrift</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">sz</placeTerm>
+            </place>
+            <dateIssued encoding="marc">2022</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <originInfo eventType="publication">
+            <place>
+              <placeTerm type="text">Bern,</placeTerm>
+            </place>
+            <publisher/>
+            <dateIssued>2022</dateIssued>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>433 Seiten ; 21 cm</extent>
+            <form authority="rdamedia" type="media"/>
+            <form authority="rdacarrier" type="carrier"/>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">Kevin Yves Sacher</note>
+          <note type="thesis">Dissertation Universität Bern, 2020</note>
+          <note type="bibliography">Literaturverzeichnis</note>
+          <subject authority="gnd">
+            <topic>Täter</topic>
+          </subject>
+          <subject authority="gnd">
+            <topic>Psychische Störung</topic>
+          </subject>
+          <subject authority="gnd">
+            <topic>Stationäre psychiatrische Versorgung</topic>
+          </subject>
+          <subject authority="gnd">
+            <topic>Verwahrung</topic>
+          </subject>
+          <subject authority="gnd">
+            <topic>Strafrecht</topic>
+          </subject>
+          <subject authority="gnd">
+            <geographic>Schweiz</geographic>
+          </subject>
+          <classification authority="ddc" edition="23sdnb">340</classification>
+          <identifier type="uri">http://permalink.snl.ch/bib/sz991018966037803976</identifier>
+          <recordInfo>
+            <descriptionStandard>rda</descriptionStandard>
+            <recordContentSource authority="marcorg">Sz</recordContentSource>
+            <recordCreationDate encoding="marc">180920</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20221101110216.0</recordChangeDate>
+            <recordIdentifier source="Sz">991018966037803976</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>991018966037803976</recordIdentifier>
+      <recordPosition>2</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>[Programme, mietrechtspraxis/mp]</title>
+          </titleInfo>
+          <name type="corporate">
+            <namePart>mietrechtspraxis/mp</namePart>
+            <role>
+              <roleTerm type="text">Verfasser</roleTerm>
+            </role>
+            <role>
+              <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+            </role>
+          </name>
+          <typeOfResource collection="yes">text</typeOfResource>
+          <genre authority="rdacontent"/>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">sz</placeTerm>
+            </place>
+            <dateIssued encoding="marc" point="start">2003</dateIssued>
+            <dateIssued encoding="marc" point="end">2022</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <originInfo eventType="publication">
+            <place>
+              <placeTerm type="text">[Zürich] :</placeTerm>
+            </place>
+            <publisher>mietrechtspraxis/mp,</publisher>
+            <dateIssued>[2003]-[2022]</dateIssued>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent unit="Schachteln"/>
+            <form authority="rdamedia" type="media"/>
+            <form authority="rdacarrier" type="carrier"/>
+          </physicalDescription>
+          <classification authority="ddc" edition="23sdnb">340</classification>
+          <identifier type="uri">http://permalink.snl.ch/bib/sz991017954316403976</identifier>
+          <recordInfo>
+            <descriptionStandard>rda</descriptionStandard>
+            <recordContentSource authority="marcorg">Sz</recordContentSource>
+            <recordCreationDate encoding="marc">190326</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20220929155127.0</recordChangeDate>
+            <recordIdentifier source="Sz">991017954316403976</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>991017954316403976</recordIdentifier>
+      <recordPosition>3</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>[Programme, Schweizerische Vereinigung für Verwaltungsorganisationsrecht]</title>
+          </titleInfo>
+          <name type="corporate">
+            <namePart>Schweizerische Vereinigung für Verwaltungsorganisationsrecht</namePart>
+            <role>
+              <roleTerm type="text">Verfasser</roleTerm>
+            </role>
+            <role>
+              <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+            </role>
+          </name>
+          <typeOfResource collection="yes">text</typeOfResource>
+          <genre authority="rdacontent"/>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">sz</placeTerm>
+            </place>
+            <dateIssued encoding="marc" point="start">2022</dateIssued>
+            <dateIssued encoding="marc" point="end">9999</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <originInfo eventType="publication">
+            <place>
+              <placeTerm type="text">[Freiburg im Üechtland] :</placeTerm>
+            </place>
+            <publisher>Schweizerische Vereinigung für Verwaltungsorganisationsrecht,</publisher>
+            <dateIssued>[2022]-</dateIssued>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+          </language>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent unit="Schachteln"/>
+            <form authority="rdamedia" type="media"/>
+            <form authority="rdacarrier" type="carrier"/>
+          </physicalDescription>
+          <note type="language">Texte in Deutsch und Französisch</note>
+          <classification authority="ddc" edition="23sdnb">340</classification>
+          <identifier type="uri">http://permalink.snl.ch/bib/sz991018576439503976</identifier>
+          <recordInfo>
+            <descriptionStandard>rda</descriptionStandard>
+            <recordContentSource authority="marcorg">Sz</recordContentSource>
+            <recordCreationDate encoding="marc">220215</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20220727182531.0</recordChangeDate>
+            <recordIdentifier source="Sz">991018576439503976</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>991018576439503976</recordIdentifier>
+      <recordPosition>4</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>[Programmes, Université de Fribourg, Institut de droit européen]</title>
+          </titleInfo>
+          <name type="corporate">
+            <namePart>Universität Freiburg</namePart>
+            <namePart>Institut für Europarecht</namePart>
+            <role>
+              <roleTerm type="text">Verfasser</roleTerm>
+            </role>
+            <role>
+              <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+            </role>
+          </name>
+          <typeOfResource collection="yes">text</typeOfResource>
+          <genre authority="rdacontent"/>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">sz</placeTerm>
+            </place>
+            <dateIssued encoding="marc" point="start">2007</dateIssued>
+            <dateIssued encoding="marc" point="end">2022</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <originInfo eventType="publication">
+            <place>
+              <placeTerm type="text">[Fribourg] :</placeTerm>
+            </place>
+            <publisher>Université de Fribourg, Institut de droit européen,</publisher>
+            <dateIssued>[2007]-[2022]</dateIssued>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+          </language>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent unit="boîtes"/>
+            <form authority="rdamedia" type="media"/>
+            <form authority="rdacarrier" type="carrier"/>
+          </physicalDescription>
+          <note type="language">Textes en français et en allemand</note>
+          <classification authority="ddc" edition="23sdnb">340</classification>
+          <identifier type="uri">http://permalink.snl.ch/bib/sz991017989327803976</identifier>
+          <recordInfo>
+            <descriptionStandard>rda</descriptionStandard>
+            <recordContentSource authority="marcorg">Sz</recordContentSource>
+            <recordCreationDate encoding="marc">190909</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20220923094359.0</recordChangeDate>
+            <recordIdentifier source="Sz">991017989327803976</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>991017989327803976</recordIdentifier>
+      <recordPosition>5</recordPosition>
+    </record>
+  </records>
+  <nextRecordPosition>6</nextRecordPosition>
+  <!-- <extraResponseData xmlns:xb="http://www.exlibris.com/repository/search/xmlbeans/">
+    <xb:exact>true</xb:exact>
+    <xb:responseDate>2022-11-01T14:31:30+0100</xb:responseDate>
+  </extraResponseData> -->
+</searchRetrieveResponse>
